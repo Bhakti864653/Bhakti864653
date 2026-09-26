@@ -13,4 +13,4 @@ I build tools that help people **decide, connect, learn, and act**, while leavin
 | 📚 **Learn**   | [Synaptiq](https://github.com/Bhakti864653/synaptiq) · [live](https://synaptiq-eta.vercel.app/)                    | An adaptive study platform built from your own notes                  |
 | 🏘️ **Act**     | [CommonGround](https://github.com/Bhakti864653/commonground) · [live](https://commonground-psi.vercel.app/)        | A multilingual civic platform piloted in Santiago de Veraguas, Panama |
 
-**Portfolio:** [bhakti-ahir.vercel.app](https://bhakti-ahir.vercel.app) · **Email:** ahirbhakti11@gmail.com
+**Portfolio:** [bhakti-ahir.vercel.app](https://bhakti-ahir.vercel.app) · **LinkedIn:** [bhakti-ahir](https://www.linkedin.com/in/bhakti-ahir-756b9943a/) · **Email:** ahirbhakti11@gmail.com
